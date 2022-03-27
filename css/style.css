@@ -1,0 +1,100 @@
+body{
+    margin: 0;
+    text-align: center;
+    background: #92A9BD;
+    font-family: 'Merriweather', serif;
+    color: #40514E;
+}
+
+h1{
+   margin-top: 50px auto 0 auto;
+   font-family: 'Sacramento', cursive;
+   font-size: 5.645rem;
+   color: #66bf79;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #bf9166;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #9e1124;
+}
+
+hr{
+    border: 6px dotted #EAF6F6;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+
+.top-container{
+    margin-top: 55px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+   
+}
+.skill1{
+    width: 25%;
+    margin-right: 30px;
+    float: left;
+}
+.skill2{
+    width: 25%;
+    margin-left: 30px;
+    float: right;
+}
+.forclear{
+    clear: left;
+}
+.for{
+    clear: right;
+    text-align: right;
+}
+
+
+.middle-container{
+    margin: 100px 0;
+}
+
+.intro{
+    width: 30%;
+    margin: auto;
+}
+
+p{
+ line-height: 2;
+}
+
+.contact-me{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+.profile img{
+    width: 200px;
+}
+
+.footer-link{
+    padding: 10px;
+}
